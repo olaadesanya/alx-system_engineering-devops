@@ -1,2 +1,2 @@
-offset 0 SCHOOL school data
-!:mime school
+0 string 0X00-SHELL_BASICS 0x00-shell_basics data
+!:mime 0x00-shell_basics
